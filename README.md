@@ -26,7 +26,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70" heigth="70" />
 </div>
 
-![Snake Animation](https://github.com/jcfenuchi)
+![Snake Animation](https://github.com/PedroIeremis/jcfenuchi/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **jcfenuchi/jcfenuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
