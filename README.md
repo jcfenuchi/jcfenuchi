@@ -4,8 +4,8 @@
 
 <div>
   
-[![card](https://github-readme-stats.vercel.app/api?username=jcfenuchi&theme=Tokyonight&show_icons=true)](https://github.com/jcfenuchi)
-[![jcfenuchi](https://github-readme-stats.vercel.app/api/top-langs/?username=jcfenuchi&hide=html&layout=compact&theme=Tokyonight)](https://github.com/jcfenuchi)
+[![card](https://github-readme-stats.vercel.app/api?username=jcfenuchi&theme=tokyonight&show_icons=true)](https://github.com/jcfenuchi)
+[![jcfenuchi](https://github-readme-stats.vercel.app/api/top-langs/?username=jcfenuchi&hide=html&layout=compact&theme=tokyonight)](https://github.com/jcfenuchi)
 </div>
 
 <div>
