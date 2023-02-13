@@ -3,7 +3,7 @@
 ### Olá sou Julio Cesar Fenuchi
 ### tenho 22 anos
 ### estou cursando redes de computadores no IFRN (Campus natal cental)
-### sou entusiasta pelo Python ♥
+### sou entusiasta por Python ♥
 ### atualmente faço parte de um grupo de pesquisa chamado Latarc <a href="https://latarc.ifrn.edu.br/index.html"> <img src="https://avatars.githubusercontent.com/u/19334784?s=280&v=4" width="30" heigth="30"/> </a>
 
 ---
