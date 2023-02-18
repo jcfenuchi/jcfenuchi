@@ -35,10 +35,14 @@
 <img src="https://www.khomp.com/wp-content/uploads/2017/10/logo-asterisk-vetor-2.jpg" width="60" heigth="60" />
 </div>
 
+---
+### minhas Badges
+<a href="https://lwfiles.blob.core.windows.net/633c72fac8c963ec854a3950-private/attachments/Badge%20Docker.png?sv=2014-02-14&st=2023-02-18T09%3A50%3A17Z&se=2023-02-18T09%3A52%3A17Z&sr=b&sp=r&rscd=&sig=rtjGY3leZWyfNAWjZUza5XIz7Z42Aj38nT%2FYfbj7bNs%3D"> <img src="./images/Badge_Docker.png" width="150" heigth="150"/> </a>
 
 
 <div>
-  
+
+---
 ### Algumas tecnologias que quero aprender:
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="70" heigth="70" />
