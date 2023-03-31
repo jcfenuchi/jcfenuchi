@@ -45,7 +45,7 @@ LinuxTips -><a href="./images/certificate-desafio-argocd-101-640f45200a68d07b6f0
 LinuxTips -><a href="./images/certificate-descomplicando-o-docker-2021-634ffe2b3e60c56d9901655f.pdf" target="_blank"> Descomplicando o Docker - 2021</a><br>
 LinuxTips -><a href="./images/certificate-linux-essentials-bondedalpi-637b790d9ed244787509f4c9.pdf" target="_blank"> Linux Essentials - #BondeDaLpi</a><br>
 LinuxTips -><a href="./images/certificate-linuxtips-experience-63496b226fee19bade09fe44.pdf" target="_blank"> LINUXtips Experience Linux</a><br>
-Nic.br -><a href="./images/CERTIFICADO-IPV6-EAD-001-JULIO-CESAR-FENUCHI-SILVA-SANTOS-70720-79826" target="_blank"> Curso Básico de IPv6 - A distância</a><br>
+Nic.br -><a href="./images/CERTIFICADO-IPV6-EAD-001-JULIO-CESAR-FENUCHI-SILVA-SANTOS-70720-79826.pdf" target="_blank"> Curso Básico de IPv6 - A distância</a><br>
 
 <div>
 
