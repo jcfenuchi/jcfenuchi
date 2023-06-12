@@ -97,7 +97,7 @@
    align-items:center;">
 &emsp;
 <img src="https://www.nic.br/docs-assets/images/logo-nicbr.png" width="70" heigth="100" />
-&emsp; &emsp;
+&emsp;&ensp;
 <img src="https://cdn-icons-png.flaticon.com/512/2026/2026644.png" width="40" heigth="50" />
 &emsp;
 <a href="./images/CERTIFICADO-IPV6-EAD-001-JULIO-CESAR-FENUCHI-SILVA-SANTOS-70720-79826.pdf" target="_blank"><img src="./images/banners_que_eu_fiz/IPv6.png" width="200" heigth="100" /></a><br>
