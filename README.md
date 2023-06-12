@@ -1,6 +1,6 @@
 
 ---
-
+<div>
 <div style=" float: right;margin: 5px;">
 <a href="https://latarc.ifrn.edu.br/index.html"><img src="https://avatars.githubusercontent.com/u/19334784?s=280&v=4" width="150" heigth="150"/> </a>
 </div>
@@ -10,7 +10,7 @@
 ### estou cursando **redes de computadores** no IFRN (Campus natal cental)
 ### entusiasta por **Python ♥**                                            
 ### atualmente faço parte de um grupo de pesquisa chamado **Latarc**
-
+</div>
 
 
 ---
