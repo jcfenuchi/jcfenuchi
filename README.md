@@ -1,23 +1,21 @@
 
 ---
-<div>
-<div style=" float: right;margin: 5px;">
-<a href="https://latarc.ifrn.edu.br/index.html"><img src="https://avatars.githubusercontent.com/u/19334784?s=280&v=4" width="150" heigth="150"/> </a>
-</div>
+
+
 
 ## Olá sou **Julio Cesar Fenuchi**
 ### tenho 22 anos
 ### estou cursando **redes de computadores** no IFRN (Campus natal cental)
 ### entusiasta por **Python ♥**                                            
 ### atualmente faço parte de um grupo de pesquisa chamado **Latarc**
-</div>
+<a href="https://latarc.ifrn.edu.br/index.html"><img src="https://avatars.githubusercontent.com/u/19334784?s=280&v=4" width="100" heigth="100"/> </a>
 
 
 ---
 
 <div>
 
-## **Entre em contato comigo:**
+### **Entre em contato comigo:**
 <a href="https://www.instagram.com/juliofenuchi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/julio-cesar-477924259/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
