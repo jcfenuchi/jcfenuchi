@@ -4,7 +4,7 @@
 
 
 ## Olá sou **Julio Cesar Fenuchi**
-### tenho 22 anos
+### tenho 23 anos
 ### estou cursando **redes de computadores** no IFRN (Campus natal cental)
 ### entusiasta por **Python ♥**                                            
 ### atualmente faço parte de um grupo de pesquisa chamado **Latarc**
