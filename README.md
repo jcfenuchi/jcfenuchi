@@ -7,7 +7,7 @@
 ### tenho 23 anos
 ### estou cursando **redes de computadores** no IFRN (Campus natal cental)
 ### entusiasta por **Python ♥**                                            
-### atualmente faço parte de um grupo de pesquisa chamado **Latarc**
+### atualmente faço parte de um grupo de pesquisa chamado **LaTARC Research Lab**
 <a href="https://latarc.ifrn.edu.br/index.html"><img src="https://avatars.githubusercontent.com/u/19334784?s=280&v=4" width="100" heigth="100"/> </a>
 
 
