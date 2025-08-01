@@ -6,8 +6,8 @@
   <p style="text-align: center; width: 100%;">
     Hello, my name is Julio Cesar Fenuchi. <br>
     I'm 24 years old and currently pursuing a degree in Computer Networks at IFRN (Campus Natal Central). <br>
-    I'm proficient in Python ♥ and work across areas such as DevOps, Machine Learning, and network services. <br>
-    I'm also an active member of the LaTARC Research Lab, where I contribute to research in network technologies and intelligent systems.
+    I'm proficient in Python ♥ and work across areas such as <strong>DevOps</strong>, <strong>Machine Learning<strong>, and <strong>network services</strong>.<br>
+    I'm also an active member of the <a href="https://latarc.ifrn.edu.br/" target="_blank" rel="noopener noreferrer"">LaTARC Research Lab</a>, where I contribute to research in network technologies and intelligent systems.
   </p>
 </div>
 
