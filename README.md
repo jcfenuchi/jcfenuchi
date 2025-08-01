@@ -9,9 +9,6 @@
     I'm proficient in Python ♥ and work across areas such as DevOps, Machine Learning, and network services. <br>
     I'm also an active member of the LaTARC Research Lab, where I contribute to research in network technologies and intelligent systems.
   </p>
-  <a href="https://latarc.ifrn.edu.br/" target="_blank" rel="noopener noreferrer" style="margin-left: 10px;">
-    <img src="https://avatars.githubusercontent.com/u/19334784?s=280&v=4" width="200" height="150" alt="LinkedIn logo" />
-  </a>
 </div>
 
 
@@ -25,7 +22,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/julio-cesar-fenuchi-477924259" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="70" alt="LinkedIn logo" />
+  </a>
+    <a href="https://latarc.ifrn.edu.br/" target="_blank" rel="noopener noreferrer" style="margin-left: 10px;">
+    <img src="https://avatars.githubusercontent.com/u/19334784?s=280&v=4" width="70" height="70" alt="LinkedIn logo" />
   </a>
 </div>
 
