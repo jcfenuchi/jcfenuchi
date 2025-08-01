@@ -1,71 +1,96 @@
-# About Me 💫
-<img align="right" width="160" height="160" src="https://avatars.githubusercontent.com/u/19334784?s=280&v=4">
-HI, I am <strong>Julio Cesar Fenuchi</strong>,<br>  
-I am 23 years old,<br>
-I'm studying <strong>Computer Networks</strong> at IFRN (Campus Natal Central)<br>  
-I am proficient in <strong>Python ♥</strong>. <br>
-I'm currently a member of a research team known as <strong>LaTARC Research Lab</strong>.<br>
+<h2 align="center">⭐ About me:</h2>
 
-   
+###
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/juliofenuchi/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/julio-cesar-477924259/) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Kubernetes](https://img.shields.io/badge/Kubernetes-white?style=for-the-badge&logo=kubernetes) ![linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white) ![grafana](https://img.shields.io/badge/Grafana-white?style=for-the-badge&logo=grafana) ![prometheus](https://img.shields.io/badge/prometheus-white?style=for-the-badge&logo=prometheus) ![docker](https://img.shields.io/badge/docker-darkblue?style=for-the-badge&logo=docker&logoColor=blue) <br>
-<img src="https://openwhisk.apache.org/images/deployments/logo-docker-compose-text.svg" width="100" heigth="60" />
-<img src="https://mininet-wifi.github.io/assets/img/logo.png" width="120" heigth="60" />
-<img src="https://containernet.github.io/assets/logo.png" width="60" heigth="60" />
-<img src="https://www.khomp.com/wp-content/uploads/2017/10/logo-asterisk-vetor-2.jpg" width="60" heigth="60" />
-
-
-
-
-## **my Badges:**
-<img src="https://github.com/jcfenuchi/jcfenuchi/blob/main/images/Badge_Docker.png?raw=true" width="200" heigth="250" />
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jcfenuchi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jcfenuchi&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jcfenuchi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<div align="center">
-   
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jcfenuchi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+  <p style="text-align: center; width: 100%;">
+    Hello, my name is Julio Cesar Fenuchi. <br>
+    I'm 24 years old and currently pursuing a degree in Computer Networks at IFRN (Campus Natal Central). <br>
+    I'm proficient in Python ♥ and work across areas such as DevOps, Machine Learning, and network services. <br>
+    I'm also an active member of the LaTARC Research Lab, where I contribute to research in network technologies and intelligent systems.
+  </p>
+  <a href="https://latarc.ifrn.edu.br/" target="_blank" rel="noopener noreferrer" style="margin-left: 10px;">
+    <img src="https://avatars.githubusercontent.com/u/19334784?s=280&v=4" width="200" height="150" alt="LinkedIn logo" />
+  </a>
 </div>
+
+
+###
+
 <div align="center">
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
+  <img height="200" src="https://media.tenor.com/omMgRMjESeAAAAAM/subaru-re-zero-subaru.gif" />
 </div>
-<div align="center">
-   
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/julio-cesar-fenuchi-477924259" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
+  </a>
 </div>
----
+
+###
+
+<h2 align="center">💻 Tech Stack:</h2>
+
+###
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="pandas logo"  />
+</div>
 
-[![](https://visitcount.itsvg.in/api?id=jcfenuchi&icon=9&color=5)](https://visitcount.itsvg.in)
+###
 
+<h2 align="center">My Badges:</h2>
+
+###
+
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/jcfenuchi/jcfenuchi/refs/heads/main/images/Badge_Docker.png"  />
+</div>
+
+###
+
+<h2 align="center">📊 GitHub Stats:</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jcfenuchi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jcfenuchi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
 <img src="https://counter.seku.su/cmoe?name=jcfenuchi&theme=moeboorule34" alt="yourname" width="400" heigth="400"/>
-
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/jcfenuchi/count.svg" /></p>
-
 </div>
 
-![Snake Animation](https://github.com/jcfenuchi/jcfenuchi/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jcfenuchi/jcfenuchi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jcfenuchi/jcfenuchi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jcfenuchi/jcfenuchi/output/pacman-contribution-graph.svg">
+</picture>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/jcfenuchi) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/jcfenuchi) 
+###
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
